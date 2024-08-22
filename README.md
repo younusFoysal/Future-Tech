@@ -1,4 +1,4 @@
- To run locally:
+ How To run locally:
  
 > npm install
  
